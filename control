@@ -1,0 +1,9 @@
+Package: com.nightwind.matchingiconlabels
+Name: MatchingIconLabels
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Match icon labels colors to their icons.
+Maintainer: Nightwind
+Author: Nightwind
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
