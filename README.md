@@ -2,7 +2,7 @@
 Match icon labels colors to their icons. Made as a tweak bounty.
 
 Bounty:
-https://www.reddit.com/r/TweakBounty/comments/1jhw370/10166_tweak_to_make_icon_labels_like_app_icon.
+https://www.reddit.com/r/TweakBounty/comments/1jhw370/10166_tweak_to_make_icon_labels_like_app_icon
 
 ### Screenshots
 
